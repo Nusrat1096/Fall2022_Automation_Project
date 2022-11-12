@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Testing">
+    <test name="Medicare and Medicaid Plans" preserve-order="true">
+        <classes>
+            <class name="United_HealthCare_Project.Medicare" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
