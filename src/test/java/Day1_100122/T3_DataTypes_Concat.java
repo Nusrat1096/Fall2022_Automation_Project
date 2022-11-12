@@ -6,6 +6,7 @@ public class T3_DataTypes_Concat {
         String myString = "Welcome to automation class";
 
         //declare and define an int variable
+        //uuuuuuuu
         int myNumber = 101;
 
         //print both variable into one print statement
